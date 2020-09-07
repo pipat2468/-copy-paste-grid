@@ -1,26 +1,26 @@
 {
-  "name": "@copy-paste/grid",
-  "version": "1.0.0",
-  "description": "vue grid",
-  "main": "lib/index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pipat2468/copy-paste-grid.git"
-  },
-  "keywords": [
-    "vur",
-    "grid"
-  ],
-  "author": "test author <pipat_246@hotmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pipat2468/copy-paste-grid/issues"
-  },
-  "homepage": "https://github.com/pipat2468/copy-paste-grid#readme"
+    "name": "@copy-paste/grid",
+    "version": "1.0.1",
+    "description": "vue grid",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pipat2468/copy-paste-grid.git"
+    },
+    "keywords": [
+        "vur",
+        "grid"
+    ],
+    "author": "test author <pipat_246@hotmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/pipat2468/copy-paste-grid/issues"
+    },
+    "homepage": "https://github.com/pipat2468/copy-paste-grid#readme"
 }
