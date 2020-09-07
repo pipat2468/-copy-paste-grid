@@ -6,6 +6,14 @@
 
 mpm install @copy-paste/grid
 
+## Config
+
+```js
+import grid from '@copy-paste/grid'
+
+Vue.use(grid)
+```
+
 ## Usage
 
 ```html
