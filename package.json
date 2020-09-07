@@ -22,5 +22,8 @@
     "bugs": {
         "url": "https://github.com/pipat2468/copy-paste-grid/issues"
     },
-    "homepage": "https://github.com/pipat2468/copy-paste-grid#readme"
+    "homepage": "https://github.com/pipat2468/copy-paste-grid#readme",
+    "dependencies": {
+        "@popperjs/core": "^2.4.4"
+    }
 }
