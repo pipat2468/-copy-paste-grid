@@ -28,9 +28,13 @@ Vue.use(grid)
     <input style="width: 100%;" />
     <input style="width: 100%;" />
 </v-grid>
+```
 
-or gap with object
+```bash
+# or gap with object
+```
 
+```html
 <v-grid
     xs="1fr"
     sm="100px 1fr"
