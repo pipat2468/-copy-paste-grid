@@ -4,7 +4,7 @@
 
 ## Development
 
-mpm install @copy-paste/grid
+npm install @copy-paste/grid
 
 ## Config
 
