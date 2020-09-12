@@ -27,6 +27,9 @@ Vue.use(grid)
 >
     <input style="width: 100%;" />
     <input style="width: 100%;" />
+    <input style="width: 100%;" />
+    <input style="width: 100%;" />
+    <input style="width: 100%;" />
 </v-grid>
 ```
 
