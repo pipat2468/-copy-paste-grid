@@ -3,7 +3,6 @@ export default {
         return c(
             this.tag,
             {
-                on: this.$listeners,
                 style: this.style
             },
             this.$slots.default

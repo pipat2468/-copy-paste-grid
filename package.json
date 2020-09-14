@@ -1,6 +1,6 @@
 {
     "name": "@copy-paste/grid",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "vue grid",
     "main": "lib/index.js",
     "directories": {
